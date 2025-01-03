@@ -73,8 +73,9 @@ This diagram shows the connections between the sensors, relays, motors, and micr
 
 The mobile app is developed using **Flutter**, allowing users to set up irrigation schedules, monitor soil moisture levels, and receive notifications when irrigation or rain events occur. It communicates with the Firebase real-time database to store and retrieve user settings and sensor data.
 
-(<img src="https://github.com/nixx210/Automatic-Irrigation-System/blob/main/Sample%20SS/Screenshot_20221222-103727.png" width="250" height="500" />) (<img src="https://github.com/nixx210/Automatic-Irrigation-System/blob/main/Sample%20SS/Screenshot_20221222-103730.png" width="250" height="500" />)
-(<img src="https://github.com/nixx210/Automatic-Irrigation-System/blob/main/Sample%20SS/Screenshot_20221222-104906.png" width="250" height="500" />)
+<img src="https://github.com/user-attachments/assets/d9a448f4-f454-4049-ac74-ce541c859b4b" width="250" height="500" /> <img src="https://github.com/nixx210/Automatic-Irrigation-System/blob/main/Sample%20SS/Screenshot_20221222-103727.png" width="250" height="500" /> 
+<img src="https://github.com/nixx210/Automatic-Irrigation-System/blob/main/Sample%20SS/Screenshot_20221222-103730.png" width="250" height="500" />
+<img src="https://github.com/nixx210/Automatic-Irrigation-System/blob/main/Sample%20SS/Screenshot_20221222-104906.png" width="250" height="500" />
 
 
 
