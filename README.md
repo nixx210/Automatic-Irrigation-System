@@ -77,7 +77,7 @@ The system is based on a **master-slave** architecture. The **master** is an ESP
 
 ## Circuit Diagram
 
-![Circuit Diagram](path/to/circuit-diagram.png)
+![Circuit Diagram]([path/to/circuit-diagram.png](https://github.com/nixx210/Automatic-Irrigation-System/blob/main/Sample%20SS/WhatsApp%20Image%202022-10-15%20at%2010.35.55%20AM.jpeg))
 
 This diagram shows the connections between the sensors, relays, motors, and microcontrollers (ESP32 and NodeMCU).
 
