@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/Model/agriculture_assistance-main/agri/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Model/agriculture_assistance-main/agri/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Model/agriculture_assistance-main/agri/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/App/nikhil_ui-main/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/App/nikhil_ui-main/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/App/nikhil_ui-main/build" />
+      <excludeFolder url="file://$MODULE_DIR$/App/nikhil_ui/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/App/nikhil_ui/build" />
+      <excludeFolder url="file://$MODULE_DIR$/App/nikhil_ui/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Model/agriculture_assistance-main/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Model/agriculture_assistance-main/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Model/agriculture_assistance-main/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
