@@ -4,18 +4,6 @@
 
 This project focuses on creating an automated irrigation system to help farmers manage water usage effectively in agricultural fields. The system uses various IoT components to monitor soil moisture and rainfall and controls irrigation accordingly. It ensures optimal water usage, preventing over-irrigation and promoting sustainable farming practices. The system is based on a master-slave topology using ESP32 and NodeMCU ESP8266, integrated with soil moisture sensors, rain sensors, and relay-controlled motors.
 
-## Table of Contents
-1. [Introduction](#introduction)
-2. [Hardware Requirements](#hardware-requirements)
-3. [Software Requirements](#software-requirements)
-4. [System Architecture](#system-architecture)
-5. [How It Works](#how-it-works)
-6. [Setup Instructions](#setup-instructions)
-7. [Circuit Diagram](#circuit-diagram)
-8. [Mobile App Integration](#mobile-app-integration)
-9. [Contributors](#contributors)
-10. [License](#license)
-
 ## Introduction
 
 Agriculture plays a crucial role in human civilization. However, traditional irrigation practices often result in inefficient water usage and crop damage due to over-watering. This automated irrigation system uses IoT technology to monitor soil moisture levels and rain conditions to determine when and how much water should be applied. The system minimizes water wastage and optimizes plant health, reducing human intervention.
@@ -77,7 +65,7 @@ The system is based on a **master-slave** architecture. The **master** is an ESP
 
 ## Circuit Diagram
 
-![Circuit Diagram]([path/to/circuit-diagram.png](https://github.com/nixx210/Automatic-Irrigation-System/blob/main/Sample%20SS/WhatsApp%20Image%202022-10-15%20at%2010.35.55%20AM.jpeg))
+![Circuit Diagram](https://github.com/nixx210/Automatic-Irrigation-System/blob/main/Sample%20SS/WhatsApp%20Image%202022-10-15%20at%2010.35.55%20AM.jpeg)
 
 This diagram shows the connections between the sensors, relays, motors, and microcontrollers (ESP32 and NodeMCU).
 
@@ -85,6 +73,8 @@ This diagram shows the connections between the sensors, relays, motors, and micr
 
 The mobile app is developed using **Flutter**, allowing users to set up irrigation schedules, monitor soil moisture levels, and receive notifications when irrigation or rain events occur. It communicates with the Firebase real-time database to store and retrieve user settings and sensor data.
 
-![Mobile App Interface](path/to/app-interface.png)
+(<img src="https://github.com/nixx210/Automatic-Irrigation-System/blob/main/Sample%20SS/Screenshot_20221222-103727.png" width="250" height="500" />) (<img src="https://github.com/nixx210/Automatic-Irrigation-System/blob/main/Sample%20SS/Screenshot_20221222-103730.png" width="250" height="500" />)
+(<img src="https://github.com/nixx210/Automatic-Irrigation-System/blob/main/Sample%20SS/Screenshot_20221222-104906.png" width="250" height="500" />)
+
 
 
